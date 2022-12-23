@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "568260650571",
+    "project_id": "smarttv-iklan",
+    "storage_bucket": "smarttv-iklan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568260650571:android:4b488ce41d934e63200fce",
+        "android_client_info": {
+          "package_name": "com.example.iklan_smart_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568260650571-k0cn0jt4uu323advch9ksgnd0ogq2a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmvJBqU-oXasXVeqVkmIxmkATdRxlXfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568260650571-k0cn0jt4uu323advch9ksgnd0ogq2a35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568260650571:android:66f4cd4bb4a9b8c5200fce",
+        "android_client_info": {
+          "package_name": "com.example.smart_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568260650571-85kkur1c4f0n9mahblhabgjqt019qvi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_tv",
+            "certificate_hash": "ad116f6e01ff73e631cb1bce2f9f2a4e6d9d2073"
+          }
+        },
+        {
+          "client_id": "568260650571-k0cn0jt4uu323advch9ksgnd0ogq2a35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmvJBqU-oXasXVeqVkmIxmkATdRxlXfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568260650571-k0cn0jt4uu323advch9ksgnd0ogq2a35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
